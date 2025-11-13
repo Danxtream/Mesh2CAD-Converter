@@ -25,10 +25,12 @@ Mesh2CAD Converter is a comprehensive tool for processing and converting 3D mesh
 
 ### After
 
+## Only used Plane detection on this one, Cylinder detection failed.
 ### Before
+<img width="773" height="726" alt="image" src="https://github.com/user-attachments/assets/65fec703-9c48-4271-81f5-f93e76507026" />
 
 ### After
-
+<img width="969" height="809" alt="image" src="https://github.com/user-attachments/assets/598742cc-4351-4efb-b3b9-c54337b10ed4" />
 ---
 
 ## Key Features

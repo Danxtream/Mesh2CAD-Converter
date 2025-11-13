@@ -194,10 +194,6 @@ Contains:
 
 ### Possible Issues
 
-**Program won't start**
-- Ensure all files were extracted from the archive
-- Check Windows Defender/antivirus hasn't quarantined files
-- Try running as administrator
 
 **Processing fails**
 - Verify input files are valid STL/STEP formats

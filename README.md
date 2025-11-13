@@ -11,6 +11,7 @@ Please consider donating if you enjoy using the product.
 ## Overview
 
 Mesh2CAD Converter is a comprehensive tool for processing and converting 3D mesh files (STL) and STEP files with plane and cylinder detection capabilities. The software transforms triangulated meshes into parametric CAD-ready geometry through intelligent surface recognition and reconstruction.
+<img width="502" height="814" alt="image" src="https://github.com/user-attachments/assets/8818cd54-96bb-4032-b598-18a496149262" />
 
 ---
 

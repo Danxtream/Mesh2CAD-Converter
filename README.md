@@ -30,7 +30,8 @@ Mesh2CAD Converter is a comprehensive tool for processing and converting 3D mesh
 <img width="773" height="726" alt="image" src="https://github.com/user-attachments/assets/65fec703-9c48-4271-81f5-f93e76507026" />
 
 ### After
-<img width="969" height="809" alt="image" src="https://github.com/user-attachments/assets/598742cc-4351-4efb-b3b9-c54337b10ed4" />
+<img width="748" height="701" alt="image" src="https://github.com/user-attachments/assets/0270f796-8fb0-4573-b288-c937d84dbbbf" />
+
 ---
 
 ## Key Features

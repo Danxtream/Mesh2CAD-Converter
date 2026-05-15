@@ -1,7 +1,7 @@
 # Mesh2CAD Converter
 ## Unified STL/STEP Processing Tool
 
-**Version:** 1.0.0  
+**Version:**
 Please consider donating if you enjoy using the product.
 \
 **Website:** https://danxtream.gumroad.com/l/Mesh2CADConverter
@@ -255,3 +255,8 @@ Source code for the compiled executable is proprietary and not open source.
 - Custom presets
 - Dark mode support
 - Drag & drop interface
+
+
+**v1.1** (Initial Release)
+- Removed 1GB of unused dependencies. Program now unpacks to under 2GB.
+

@@ -1,7 +1,5 @@
 # Mesh2CAD Converter
 ## Unified STL/STEP Processing Tool
-
-**Version:**
 Please consider donating if you enjoy using the product.
 \
 **You can download it for free here:** https://danxtream.gumroad.com/l/Mesh2CADConverter

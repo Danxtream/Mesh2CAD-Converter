@@ -257,6 +257,6 @@ Source code for the compiled executable is proprietary and not open source.
 - Drag & drop interface
 
 
-**v1.1** (Initial Release)
+**v1.1** 
 - Removed 1GB of unused dependencies. Program now unpacks to under 2GB.
 

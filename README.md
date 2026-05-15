@@ -4,7 +4,7 @@
 **Version:**
 Please consider donating if you enjoy using the product.
 \
-**Website:** https://danxtream.gumroad.com/l/Mesh2CADConverter
+**You can download it for free here:** https://danxtream.gumroad.com/l/Mesh2CADConverter
 
 ---
 
